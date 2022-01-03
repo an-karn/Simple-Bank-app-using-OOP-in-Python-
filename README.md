@@ -7,7 +7,7 @@ The following command will take you to shell where you can create instance of a 
 ```ankit = Bank('Ankit', 21, 'Male')```
 
 You can also check if it is created or not by typing following command:
-```johan.show_details()```
+```ankit.show_details()```
 
 Something like this will be diplayed:
 
